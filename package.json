@@ -1,0 +1,19 @@
+{
+  "name": "my-chat",
+  "version": "1.0.0",
+  "description": "Just a chat",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S4M.N0V",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  },
+  "dependencies": {
+    "faiss-node": "^0.5.1",
+    "natural": "^8.0.1"
+  }
+}
